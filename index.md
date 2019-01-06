@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Tripolink LLC
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,11 +16,8 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: |-
-  Tripolink LLC
-
-  Linking the sharing market with Blockchain
+sub_heading: Blockchain Consultancy Services
+textline: Linking the sharing market with Blockchain
 hero_button:
   text: Learn more
   href: "/about"
