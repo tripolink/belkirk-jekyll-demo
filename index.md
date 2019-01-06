@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2019/01/06/1200px-Blockchain_Illustration_4.jpg"
 layout: landing-page
 heading: Tripolink LLC
 partners:
@@ -17,7 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Blockchain Consultancy Services
-textline: Linking the sharing market with Blockchain
+textline: Blockchain Technology Consultancy & Project Incubation Services
 hero_button:
   text: Learn more
   href: "/about"
