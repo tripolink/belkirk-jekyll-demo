@@ -2,11 +2,14 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+heading: About Tripolink
+sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: 'Blockchain technology has the potential to change the way we run companies!
+  Among its most prominent benefits are data security and authentication, transparency
+  and immutability. Right now, the technology is still in its infancy, but it has
+  already found some impressive applications. Explore some everyday cases of blockchain
+  implementation in different branches of industry.  '
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
@@ -18,6 +21,6 @@ menu:
     weight: 2
 
 ---
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+We offer advice on the strategic employment of blockchain technology based on a thorough analysis of your company's profile whilst drafting along your ideas of development. We will assess the potential of blockchain technology in your company and discuss possibilities of optimization.
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+We provide you with the programming of scalable and distributed applications and custom-built protocols. Additionally, we support you throughout the entire process of integration and adaptation of blockchain technology into your already existing company network.
