@@ -2,7 +2,7 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2019/01/06/bc-banner.jpg"
-heading: About Tripolink
+heading: About Us
 sub_heading: ''
 layout: landing-page
 textline: 'Blockchain technology has the potential to change the way we run companies!
