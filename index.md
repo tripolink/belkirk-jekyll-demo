@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Blockchain Consultancy Services
+sub_heading: Unchaining the Sharing Market with Blockchain Technology
 textline: Blockchain Technology Consultancy & Project Incubation Services
 hero_button:
   text: Learn more
