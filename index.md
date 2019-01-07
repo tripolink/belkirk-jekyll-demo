@@ -10,7 +10,7 @@ partners:
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
-  heading: Health Tech
+  heading: Health IT
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
